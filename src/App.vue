@@ -36,6 +36,11 @@ export default {
           name: 'Button Ripple Effect',
           url: 'https://ex3-button-vue.vercel.app/',
           srcImg: '/images/ex3.jpeg'
+        },
+        {
+          name: 'Realtime Character',
+          url: 'https://ex4-realtime-character-vue.vercel.app/',
+          srcImg: '/images/ex4.jpeg'
         }
       ]
     }
