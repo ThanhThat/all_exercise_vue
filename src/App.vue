@@ -26,6 +26,11 @@ export default {
           name: 'Digital Clock',
           url: 'https://digital-clock-taupe.vercel.app/',
           srcImg: '/images/ex1.jpeg'
+        },
+        {
+          name: 'Multiplication App',
+          url: 'https://ex2-multiplication-vue.vercel.app/',
+          srcImg: '/images/ex2.jpeg'
         }
       ]
     }
