@@ -31,6 +31,11 @@ export default {
           name: 'Multiplication App',
           url: 'https://ex2-multiplication-vue.vercel.app/',
           srcImg: '/images/ex2.jpeg'
+        },
+        {
+          name: 'Button Ripple Effect',
+          url: 'https://ex3-button-vue.vercel.app/',
+          srcImg: '/images/ex3.jpeg'
         }
       ]
     }
