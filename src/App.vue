@@ -2,7 +2,7 @@
   <h1 class="text-center text-info">Framework Exercises Vue 3</h1>
   <div class="container mt-4">
     <div class="row">
-      <div class="col col-12 col-md-4" v-for="(project, index) in projects" :key="index">
+      <div class="col col-12 col-md-4 mb-3" v-for="(project, index) in projects" :key="index">
         <a class="link-info" :href="project.url" target="_blank">
           <base-card :srcImg="project.srcImg" :title="project.name">
             <template #cardBody>
